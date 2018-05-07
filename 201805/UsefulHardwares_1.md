@@ -9,3 +9,5 @@
 **[a.2]** This is the avaliable [website](https://www.rls.si/cn_en/products/rotary-magnetic-encoders/absolute-encoders/aksim-rotary-absolute-encoder-module?___from_store=cn "Renshaw absolute angle sensor"); 
 
 **[a.3]** Note this sensor is used in many advanced robotics system.
+
+**[a.4]** **Useful Rank**: :star::star::star::star::star:
