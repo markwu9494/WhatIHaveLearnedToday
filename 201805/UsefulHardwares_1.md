@@ -26,4 +26,4 @@ This is the avaliable [website](http://www.mikipulley.co.jp/EN/Products/Electoro
 
 Note this brake is often used in the robot arms.
 
-![Alt text](https://raw.githubusercontent.com/markwu9494/WhatIHaveLearnedToday/master/Figure/aksim____1.jpeg)
+![Alt text](https://raw.githubusercontent.com/markwu9494/WhatIHaveLearnedToday/master/Figure/cb_of_ble_l.jpg)
