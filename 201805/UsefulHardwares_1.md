@@ -14,4 +14,16 @@ Note this sensor is used in many advanced robotics system.
 
 ![Alt text](https://raw.githubusercontent.com/markwu9494/WhatIHaveLearnedToday/master/Figure/aksim____1.jpeg)
 
-## 2. Micro brake -- Brand:Renishaw 
+## 2. Micro brake -- Brand: MIKI PULLEY
+
+**Name**: BXR LE Model; 
+
+**Advantages**: This is almost the smallest brake in the world;
+
+**Useful Rank**: :star::star::star::star::star:
+
+This is the avaliable [website](http://www.mikipulley.co.jp/EN/Products/ElectoromagneticClutchesAndBrakes/SpringActuatedTypeBrakes/BXR-LE/index.html#ble); 
+
+Note this brake is often used in the robot arms.
+
+![Alt text](https://raw.githubusercontent.com/markwu9494/WhatIHaveLearnedToday/master/Figure/aksim____1.jpeg)
