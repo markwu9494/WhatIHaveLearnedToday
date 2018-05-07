@@ -12,6 +12,6 @@ This is the avaliable [website](https://www.rls.si/cn_en/products/rotary-magneti
 
 Note this sensor is used in many advanced robotics system.
 
-![Alt text](https://static.rls.si/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/a/k/aksim____1.jpeg)
+![Alt text](https://static.rls.si/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/a/k/aksim____1.jpg)
 
 ## 2. Micro brake -- Brand:Renishaw 
