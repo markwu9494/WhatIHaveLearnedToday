@@ -1,4 +1,4 @@
-# Some useful sensors, brakes and drivers
+# Some useful sensors, brakes
 
 ## 1. Angle position sensor -- Brand:Renishaw 
 
