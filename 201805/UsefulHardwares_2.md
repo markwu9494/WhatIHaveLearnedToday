@@ -14,4 +14,4 @@ Note this drive is used in many advanced robotics system;
 
 Note this drive only has two ports used for encoder connecting (**One is for absolutely encoder or incremental encoder, the other is only for incremental encoder.**)
 
-![Alt text](https://raw.githubusercontent.com/markwu9494/WhatIHaveLearnedToday/master/Figure/aksim____1.jpeg)
+![Alt text](https://raw.githubusercontent.com/markwu9494/WhatIHaveLearnedToday/master/Figure/G-TWIxx-xxxEE.jpg)
